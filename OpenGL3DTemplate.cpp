@@ -334,7 +334,7 @@ void keyboard_up(unsigned char key, int x, int y)
 
 void MouseCB(int button, int state, int x, int y)
 {
-	if (button == GLUT_LEFT_BUTTON)
+	if (button == GLUT_LEFT_BUTTON && state == GLUT_DOWN)
 	{
 		isShooting = true;
 	}
