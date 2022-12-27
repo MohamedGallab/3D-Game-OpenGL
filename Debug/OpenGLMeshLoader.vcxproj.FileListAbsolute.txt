@@ -1,0 +1,2 @@
+C:\Uni\Semester 7\(DMET502) Computer Graphics\Labs\Lab 7\OpenGLMeshLoader19 - sky\Debug\OpenGLMeshLoader19.exe
+C:\Uni\Semester 7\(DMET502) Computer Graphics\Project\OpenGL3DTemplate - Copy\Debug\OpenGLMeshLoader19.exe
